@@ -10,6 +10,7 @@ Below is an outline of all of the data projects I have done.
 - [Data Mining](#data-mining)
 - [Dashboard Development](#dashboard)
 - [Machine Learning](#machine-learning)
+- [DataCamp Projects](#datacamp-projects)
 
 # Data Acquisition 
 
@@ -60,6 +61,10 @@ Below is an outline of all of the data projects I have done.
 |---|---|---|---|
 | ⏱️ [Time Series Modeling](https://github.com/kevin-rupe/Time-Series-Modeling) | Nov 2024 | SQL (PostgreSQL) | Built an ARIMA model that predicts a 90-day hospital revenue forecast. |
 | 🤷🏼‍♂️ [Sentiment Analysis](https://github.com/kevin-rupe/Sentiment-Analysis) | Nov 2024 | SQL (PostgreSQL) | Built a LSTM CNN model using NLP to accurately predict customer feedback sentiment. |
+
+# DataCamp Projects
+
+See my project repo [here](https://github.com/kevin-rupe/DataCamp-Projects).
 
 
 
