@@ -11,7 +11,7 @@ Below is an outline of all of the data projects I have done.
 - [Dashboard Development](#dashboard)
 - [Machine Learning](#machine-learning)
 - [DataCamp Projects](#datacamp-projects)
-- [Kaggle Projects & Competitions](#kaggle)
+- [Kaggle Projects & Competitions](#kaggle-projects-&-competitions)
 
 # Data Acquisition 
 
