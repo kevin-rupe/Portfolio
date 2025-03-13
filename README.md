@@ -11,6 +11,7 @@ Below is an outline of all of the data projects I have done.
 - [Dashboard Development](#dashboard)
 - [Machine Learning](#machine-learning)
 - [DataCamp Projects](#datacamp-projects)
+- [Kaggle Projects & Competitions](#kaggle)
 
 # Data Acquisition 
 
@@ -66,6 +67,9 @@ Below is an outline of all of the data projects I have done.
 
 See my project repo [here](https://github.com/kevin-rupe/DataCamp-Projects).
 
+# Kaggle Projects and Competitions
+
+See my project repo [here](https://github.com/kevin-rupe/Kaggle).
 
 
 
