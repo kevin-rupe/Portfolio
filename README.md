@@ -67,7 +67,7 @@ Below is an outline of all of the data projects I have done.
 
 See my project repo [here](https://github.com/kevin-rupe/DataCamp-Projects).
 
-# Kaggle Projects and Competitions
+# Kaggle Projects & Competitions
 
 See my project repo [here](https://github.com/kevin-rupe/Kaggle).
 
